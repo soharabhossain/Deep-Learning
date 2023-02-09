@@ -66,3 +66,16 @@ https://keras.io/api/datasets/cifar100/
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+## ImageNet
+==============================================
+ImageNet Dataset:
+https://www.image-net.org/download.php
+
+ImageNet Large Scale Visual Recognition Challenge (ILSVRC):
+https://www.image-net.org/challenges/LSVRC/index.php
+
+## The Oxford-IIIT Pet Dataset
+==============================================
+https://www.robots.ox.ac.uk/~vgg/data/pets/
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
